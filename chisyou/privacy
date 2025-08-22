@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>プライバシーポリシー - アラームアプリ</title>
+    <style>
+      body {
+        font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+        line-height: 1.6;
+        color: #333;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f9f9f9;
+      }
+      .container {
+        background-color: white;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      }
+      h1 {
+        color: #2c3e50;
+        border-bottom: 3px solid #3498db;
+        padding-bottom: 10px;
+      }
+      h2 {
+        color: #34495e;
+        margin-top: 30px;
+        border-left: 4px solid #3498db;
+        padding-left: 15px;
+      }
+      .update-date {
+        text-align: right;
+        color: #7f8c8d;
+        font-style: italic;
+        margin-bottom: 30px;
+      }
+      ul {
+        padding-left: 20px;
+      }
+      li {
+        margin-bottom: 10px;
+      }
+      .contact {
+        background-color: #ecf0f1;
+        padding: 15px;
+        border-radius: 5px;
+        margin-top: 20px;
+      }
+      .highlight {
+        background-color: #fff3cd;
+        padding: 15px;
+        border-left: 4px solid #ffc107;
+        margin: 20px 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>プライバシーポリシー</h1>
+      <div class="update-date">最終更新日: 2025年8月22日</div>
+
+      <div class="highlight"><strong>重要:</strong> 本アプリは個人情報の保護を最優先に考えており、必要最小限の情報のみを取り扱います。</div>
+
+      <h2>1. 収集する情報</h2>
+      <p>本アラームアプリでは、以下の情報を収集する場合があります：</p>
+      <ul>
+        <li><strong>アラーム設定情報</strong>: アラーム名、時刻、繰り返し設定など</li>
+        <li><strong>グループ情報</strong>: グループ名、メンバー設定（グループ機能利用時）</li>
+        <li><strong>デバイス情報</strong>: 通知送信に必要な端末識別情報</li>
+        <li><strong>利用状況</strong>: アプリのクラッシュレポート、エラーログ（改善目的）</li>
+      </ul>
+
+      <h2>2. 情報の利用目的</h2>
+      <p>収集した情報は以下の目的でのみ利用します：</p>
+      <ul>
+        <li>アラーム機能の提供</li>
+        <li>グループアラーム機能の提供</li>
+        <li>アプリの改善・不具合修正</li>
+        <li>カスタマーサポート</li>
+      </ul>
+
+      <h2>3. 第三者への提供</h2>
+      <p>以下の場合を除き、個人情報を第三者に提供することはありません：</p>
+      <ul>
+        <li>法令に基づく場合</li>
+        <li>利用者の同意がある場合</li>
+        <li>アプリの機能提供に必要なクラウドサービス（適切な保護措置を講じた場合）</li>
+      </ul>
+
+      <h2>4. データの保存と削除</h2>
+      <ul>
+        <li><strong>ローカル保存</strong>: アラーム設定は主に端末内に保存されます</li>
+        <li><strong>クラウド同期</strong>: グループ機能利用時のみ、必要な情報をサーバーに保存します</li>
+        <li><strong>データ削除</strong>: アプリを削除すると、端末内のデータは自動的に削除されます</li>
+        <li><strong>アカウント削除</strong>: ユーザーの要請により、サーバー上のデータも削除可能です</li>
+      </ul>
+
+      <h2>5. セキュリティ</h2>
+      <p>個人情報の保護のため、以下の対策を実施しています：</p>
+      <ul>
+        <li>データの暗号化</li>
+        <li>アクセス制限</li>
+        <li>定期的なセキュリティ監査</li>
+      </ul>
+
+      <h2>6. 通知とプッシュ通知</h2>
+      <ul>
+        <li>アラーム機能のため、通知権限を使用します</li>
+        <li>通知は端末内で生成され、外部サーバーを経由しません</li>
+        <li>通知権限はいつでも端末設定から無効にできます</li>
+      </ul>
+
+      <h2>7. 画像データ</h2>
+      <ul>
+        <li>アラーム用にユーザーが選択した画像は端末内に保存されます</li>
+        <li>グループで画像を共有する場合のみ、一時的にサーバーに保存される場合があります</li>
+        <li>画像データは必要最小限の期間のみ保持されます</li>
+      </ul>
+
+      <h2>8. 子どもの個人情報</h2>
+      <p>13歳未満のお子様の個人情報を意図的に収集することはありません。13歳未満の方がアプリを利用される場合は、保護者の方の監督のもとでご利用ください。</p>
+
+      <h2>9. プライバシーポリシーの変更</h2>
+      <p>本プライバシーポリシーは必要に応じて更新される場合があります。重要な変更がある場合は、アプリ内またはウェブサイトで通知いたします。</p>
+
+      <h2>10. お問い合わせ</h2>
+      <div class="contact">
+        <p>ご質問やご要望は、<a href="https://docs.google.com/forms/d/1hSn3aewfElolMzq7oCUQjjY10s-GqNphiKKsOlJSFBs/edit">こちら</a> よりお問い合わせください。</p>
+      </div>
+    </div>
+  </body>
+</html>
